@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me asifshahusa@gmail.com
+- 📫 How to reach me asifshah8108@gmail.com
 
 <!---
 Asifshah8108/Asifshah8108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
